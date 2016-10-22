@@ -1,9 +1,9 @@
 # Portfolio-plus-customizations
-Theme Name:     Portfolio+ Child
-Description:    A child theme for Portfolio+ so customizations won't be deleted when the parent theme is upgraded.
-Author:         Devin Price
-Template:       portfolio-plus
-Customization:  Lisa E. A. Dickerson
+ Theme Name:     Portfolio+ Child  
+ Description:    A child theme for Portfolio+ so customizations won't be deleted when the parent theme is upgraded.  
+ Author:         Devin Price  
+ Template:       portfolio-plus  
+ Customization:  Lisa E. A. Dickerson  
 
 ## Requirements
 Portfolio+ premium theme by Devin Price
